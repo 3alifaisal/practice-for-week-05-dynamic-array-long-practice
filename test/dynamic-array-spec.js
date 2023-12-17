@@ -1,5 +1,5 @@
 const { expect } = require('chai');
-const DynamicArray = require("../dynamic-array.js");
+const DynamicArray = require("../dynamic-array");
 const chai = require("chai");
 const spies = require("chai-spies");
 chai.use(spies);
